@@ -1,0 +1,2 @@
+# IEEE
+The Institute of Electrical and Electronics Engineers, or iTriple E, is a professional association based in Piscataway, New Jersey, in the United States. It was formed in the year 1963 AD, by merging the American Institute of Electrical Engineers with the Institute of Radio Engineers.

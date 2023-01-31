@@ -3,4 +3,5 @@ In this repository you can find all of my projects associated with each subject 
 
 - Hardware
 - Software
+- Student Activities
 
