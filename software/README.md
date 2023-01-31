@@ -4,3 +4,4 @@
 ## Level Two
 - Object Detection Model [Computer Vision]
 - Heart Attack Prediction Model [Introduction to Machine Learning]
+- Customer Satisfaction Analysis Model [Natural Language Processing]
