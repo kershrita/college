@@ -8,9 +8,9 @@ Using Arduino Uno and a few resources, we have designed a CNC Plotter Machine th
 - Processing : https://processing.org/download
 
 ## Components
-- Arduino Uno
-- Motor Driver L293D Shield
-- 2 CD-ROMs
+- 1 * Arduino Uno
+- 1 * Motor Driver L293D Shield
+- 2 * CD-ROMs
 
 Steps : https://electricdiylab.com/how-to-make-arduino-mini-cnc-plotter-machine/
 Machine while drawing : https://drive.google.com/file/d/1T6XbWHDwXpsRdm7keNW0uuRVcscyL0hK/view

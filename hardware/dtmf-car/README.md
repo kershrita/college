@@ -3,12 +3,16 @@ Using the DTMF Module and Arduino Nano, we made a car robot that moves signals f
 
 Illustrative example: If we send a number 2, the other phone (the receiver) sends this value to the DTMF Module, then the DTMF Module converts it to binary number and sends it to the Arduino Nano and executes the required code of it if we press the number 2 and so on with the rest of the numbers.
 
-- Robot moves : https://drive.google.com/file/d/1MkTyPqT7drrVki1eYvzhlTXANotOzHaV/view?usp=sharing
+# Tutorial
+## Programs you must have:
+- Arduino IDE : https://www.arduino.cc/en/software
 
-# Components
-- Arduino Nano
-- DTMF Module
-- Motor Driver
+## Components
+- 1 * Arduino Nano
+- 1 * DTMF Module
+- 1 * Motor Driver
+
+- Robot moves : https://drive.google.com/file/d/1MkTyPqT7drrVki1eYvzhlTXANotOzHaV/view?usp=sharing
 
 # Team Members
 - Ashraf Abdulkhaliq Bassuoni
