@@ -1,6 +1,5 @@
-# College Repository
-In this repository you can find all of my projects associated with each subject i have studied.
+## Level One
+- Simple GUI game using graphics library [Computer Graphics]
 
-- Hardware
-- Software
-
+## Level Two
+- Secure connection between two devices [Computer Security]
